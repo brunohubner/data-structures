@@ -21,10 +21,10 @@ Esta é a versão 1.0 deste repositório, conforme eu for avançando em meus est
 
 - #### [Lista Ligada](lista-ligada/)
 
-- #### [Filas](fila/)
+- #### [Filas](filas/)
 
 - #### [Pilhas](pilhas/)
 
-- #### [Árvore Binária](arvore-binaria)
+- #### [Árvore Binária](arvore-binaria/)
 
 - #### [Grafos](grafos/)
